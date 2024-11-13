@@ -6,3 +6,6 @@ O principal objetivo deste projeto é implementar um chuveiro automatizado que p
   - Desenvolver um sistema de autenticação seguro que permita aos usuários acessar o chuveiro mediante autenticação com usuário e senha.
   - Integrar um temporizador automático que controle o tempo de uso do chuveiro, desligandoo automaticamente após 10 minutos.
   - Garantir a eficiência operacional e a confiabilidade do sistema, minimizando falhas egarantindo a segurança dos dados dos usuários.
+
+## Imagens do Projeto:
+![image](https://github.com/user-attachments/assets/0b2b7e42-56e5-42aa-98f1-92ca468e5f81)
